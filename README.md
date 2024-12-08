@@ -1,6 +1,7 @@
 ## 👩‍💻 Authors  
 - Marcus Peerboccus  
-- Gareth Bacchus  
+- Gareth Bacchus
+- Jason Peerboccus
 
 # 🚗 Car Sales Forecasting  
 
