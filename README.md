@@ -28,7 +28,7 @@ The primary analysis is in **[Sales Forecasting.ipynb](Sales%20Forecasting.ipynb
 ## 📂 Files in This Repository  
 - **[Sales Forecasting.ipynb](Sales%20Forecasting.ipynb)**: The main Jupyter Notebook containing the data analysis, model implementation, and results.  
 - **data/**: Folder containing the cleaned and aggregated datasets used in the analysis.  
-- **images/**: Sample car images and visualizations generated during the project.  
+- **assets/**: Sample car images and visualizations generated during the project.  
 
 ## ✨ Highlights  
 This project combines traditional forecasting approaches like Prophet with modern machine learning techniques to evaluate and predict car sales trends. The results showcase the potential for hybrid methodologies in business forecasting.  
