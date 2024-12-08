@@ -1,9 +1,9 @@
+# 🚗 Car Sales Forecasting  
+
 ## 👩‍💻 Authors  
 - Marcus Peerboccus  
 - Gareth Bacchus
 - Jason Peerboccus
-
-# 🚗 Car Sales Forecasting  
 
 This project explores time series forecasting and machine learning methods to predict car sales trends. The analysis combines historical sales data, economic indicators, and lagged covariates to build robust forecasting models.  
 
