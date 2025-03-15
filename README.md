@@ -2,8 +2,8 @@
 
 ## 👩‍💻 Authors  
 - Marcus Peerboccus  
-- Gareth Bacchus
 - Jason Peerboccus
+- Gareth Bacchus
 
 This project explores time series forecasting and machine learning methods to predict car sales trends. The analysis combines historical sales data, economic indicators, and lagged covariates to build robust forecasting models.  
 
